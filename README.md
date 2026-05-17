@@ -78,6 +78,10 @@ Prevents any account balance from becoming negative.
 
 ---
 
+## ER Diagram
+
+![ER Diagram](ER_diagram.png)
+
 ## Sample Operations
 
 ```sql
